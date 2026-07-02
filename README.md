@@ -1,16 +1,67 @@
-## Hi there 👋
+# Hi 👋 I'm Varan Kumar Gupta
 
-<!--
-**varankgupta/varankgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+Data Engineer with 4+ years of experience building enterprise ETL pipelines and cloud data solutions using Azure, PySpark, Databricks, SQL, and Informatica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning AI-powered Data Engineering and building production-ready projects.
+
+---
+
+## 🛠 Tech Stack
+
+### Programming
+
+- Python
+- SQL
+- Shell Scripting
+
+### Data Engineering
+
+- Azure Data Factory
+- Azure Databricks
+- PySpark
+- Spark SQL
+- Azure Synapse
+- Azure Data Lake
+
+### ETL
+
+- Informatica PowerCenter
+- IICS
+
+### Databases
+
+- Oracle
+- SQL Server
+
+### Tools
+
+- Git
+- Jenkins
+- Jira
+- Bitbucket
+
+---
+
+## 🌱 Currently Learning
+
+- Microsoft Fabric
+- AI for Data Engineering
+- Advanced PySpark
+- Data Lakehouse Architecture
+
+---
+
+## 📜 Certification
+
+- Microsoft Certified: Azure Data Engineer Associate (DP-203)
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready Data Engineering projects
+- Contribute to open source
+- Share technical blogs
+- Learn Generative AI
